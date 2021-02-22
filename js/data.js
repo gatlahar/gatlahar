@@ -9,8 +9,8 @@ mainData = [
     { 
       id: 2,
       type: "Photos",
-      src: '/img/gallery/8a.jpeg',
-      tum: '/img/gallery/8a.jpeg',
+      src: 'img/gallery/8a.jpeg',
+      tum: 'img/gallery/8a.jpeg',
       cp: "Want to Walk"
     },
     { 
@@ -58,8 +58,8 @@ mainData = [
     { 
       id: 9,
       type: "Photos",
-      src: '/img/gallery/16a.jpeg',
-      tum: '/img/gallery/16a.jpeg',
+      src: 'img/gallery/16a.jpeg',
+      tum: 'img/gallery/16a.jpeg',
       cp: "Common Now, Smile"
     },{ 
       id: 10,
