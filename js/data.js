@@ -16,8 +16,8 @@ mainData = [
     { 
       id: 3,
       type: "Photos",
-      src: 'img/gallery/6a.jpeg',
-      tum: 'img/gallery/6a.jpeg',
+      src: 'img/gallery/10a.jpeg',
+      tum: 'img/gallery/10a.jpeg',
       cp: "Gorgeous Glow"
     },
     { 
