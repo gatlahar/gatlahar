@@ -30,8 +30,8 @@ mainData = [
     { 
       id: 5,
       type: "Photos",
-      src: '/img/gallery/11a.jpeg',
-      tum: '/img/gallery/11a.jpeg',
+      src: 'img/gallery/11a.jpeg',
+      tum: 'img/gallery/11a.jpeg',
       cp: "Look Low"
     },
     { 
