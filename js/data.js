@@ -30,8 +30,8 @@ mainData = [
     { 
       id: 5,
       type: "Photos",
-      src: 'img/gallery/LookingLow.jpeg',
-      tum: 'img/gallery/LookingLow.jpeg',
+      src: 'img/gallery/LookingLow.jpg',
+      tum: 'img/gallery/LookingLow.jpg',
       cp: "Look Low"
     },
     { 
@@ -51,9 +51,9 @@ mainData = [
     { 
       id: 8,
       type: "Photos",
-      src: 'img/gallery/WatchOut.jpeg',
-      tum: 'img/gallery/WatchOut.jpeg',
-      cp: "Oop, Watch out"
+      src: 'img/gallery/SittingOnTheCorner.jpg',
+      tum: 'img/gallery/SittingOnTheCorner.jpg',
+      cp: "Sitting On the Edge"
     },
     { 
       id: 9,
@@ -61,38 +61,40 @@ mainData = [
       src: 'img/gallery/ComeOn.jpeg',
       tum: 'img/gallery/ComeOn.jpeg',
       cp: "Come On Now, Smile"
-    },{ 
+    }
+    ,{ 
       id: 10,
       type: "Design",
       src: 'img/gallery/CatchYourEye.jpeg',
       tum: 'img/gallery/CatchYourEye.jpeg',
       cp: "Caught Your Eye"
-    }//,{ 
-      //id: 11,
-      //type: "Design",
-      //src: 'file:///Users/Harik/Desktop/DSC_5317.jpeg',
-      //tum: 'file:///Users/Harik/Desktop/DSC_5317.jpeg',
-      //cp: "Nice Photo"
-    //},
-    //{ 
-      //id: 12,
-      //type: "Photoshop",
-      //src: 'file:///Users/Harik/Desktop/DSC_6665.jpeg',
-      //tum: 'file:///Users/Harik/Desktop/DSC_6665.jpeg',
-      //cp: "Nice Photo"
-    //},
-    //{ 
-      //id: 13,
-      //type: "Photos",
-      //src: 'file:///Users/Harik/Desktop/DSC_0032.jpeg',
-      //tum: 'file:///Users/Harik/Desktop/DSC_0032.jpeg',
-      //cp: "Nice Photo"
-    //},
-    //{ 
-      //id: 14,
-      //type: "Photos",
-      //src: 'file:///Users/Harik/Desktop/DSC_6659.jpeg',
-      //tum: 'file:///Users/Harik/Desktop/DSC_6659.jpeg',
-      //cp: "Nice Photo"
-    //}
+    }
+    ,{ 
+      id: 11,
+      type: "Design",
+      src: 'img/gallery/WatchOut.jpeg',
+      tum: 'img/gallery/WatchOut.jpeg',
+      cp: "Oops, Watch Out"
+    },
+    { 
+      id: 12,
+      type: "Photoshop",
+      src: 'img/gallery/CatchingTheWind.jpg',
+      tum: 'img/gallery/CatchingTheWind.jpg',
+      cp: "Catching The Wind"
+    },
+    { 
+      id: 13,
+      type: "Photos",
+      src: 'img/gallery/SteppingUp.jpeg',
+      tum: 'img/gallery/SteppingUp.jpeg',
+      cp: "Stepping Up"
+    },
+    { 
+      id: 14,
+      type: "Photos",
+      src: 'img/gallery/TextingSomeone.jpg',
+      tum: 'img/gallery/TextingSomeone.jpg',
+      cp: "Texting and Posing"
+    }
   ];
