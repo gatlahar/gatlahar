@@ -72,23 +72,23 @@
            </div>
          </div>
          <div class="form">
-           <form
-            action="https://formspree.io/f/mwkwdgwz"
-            method="POST"
-          >
-            <label>
-              Your email:
-              <input type="text" name="_replyto">
-            </label>
-            <label>
-              Your message:
-              <textarea name="message"></textarea>
-            </label>
-
-            <!-- your other form fields go here -->
-
-            <button type="submit">Send</button>
-          </form>
+           <form action="https://formspree.io/f/mwkwdgwz" method="POST">
+              <div class="row">
+                  <label for="fname">Name</label>
+                  <input type="text" placeholder="Your name..">
+              </div>
+              <div class="row">
+                  <label for="lname">Email</label>
+                  <input type="text"  placeholder="Your email..">
+              </div>
+              <div class="row">
+                  <label for="subject">Message</label>
+                  <textarea name="subject" placeholder="Write something.."></textarea>
+              </div>
+              <div class="row">
+                <button type="submit">Send</button>
+              </div>
+            </form>
          </div>
        </div>
     </section>
