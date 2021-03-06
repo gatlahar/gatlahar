@@ -17,7 +17,7 @@ mainData = [
       id: 3,
       type: "Photos",
       src: 'img/gallery/GorgeousGlow.jpeg',
-      tum: 'img/gallery/GorgeousGlow.jpeg',
+      tum: 'img/gallery/GoregeousGlow.jpeg',
       cp: "Gorgeous Glow"
     },
     { 
