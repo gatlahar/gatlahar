@@ -220,7 +220,7 @@ body {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background: src("img/gallery/FallLandscape.jpeg") #1D1D1D;
+  background: url("../img/gallery/FallLandscape.jpeg") #1D1D1D;
   background-size: cover;
   background-position: center;
   max-height: 400px;
@@ -373,7 +373,7 @@ body {
 }
 
 .main-section-about .info .my-image {
-  background: src("img/gallery/FallLandscape.jpeg") #eee;
+  background: url("../img/gallery/FallLandscape.jpeg") #eee;
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -552,7 +552,7 @@ body {
 }
 
 .main-section-about .list-two {
-  background: url("img/gallery/FallLandscape.jpeg") #1D1D1D;
+  background: url("../img/gallery/FallLandscape.jpeg") #1D1D1D;
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -649,7 +649,7 @@ body {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background: url("img/gallery/FallLandscape.jpeg") #1D1D1D;
+  background: url("../img/gallery/FallLandscape.jpeg") #1D1D1D;
   background-size: cover;
   background-position: bottom;
   max-height: 400px;
@@ -897,7 +897,7 @@ body {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background: url("img/gallery/FallLandscape.jpeg") #1D1D1D;
+  background: url("../img/gallery/FallLandscape.jpeg") #1D1D1D;
   background-size: cover;
   background-position: bottom;
   max-height: 400px;
