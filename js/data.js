@@ -2,70 +2,70 @@ mainData = [
     { 
       id: 1,
       type: "Photos",
-      src: 'img/gallery/1a.jpeg',
-      tum: 'img/gallery/1a.jpeg',
+      src: 'img/gallery/SkyloStare.jpeg',
+      tum: 'img/gallery/SkyloStare.jpeg',
       cp: "Skylo Stare"
     },
     { 
       id: 2,
       type: "Photos",
-      src: 'img/gallery/8a.jpeg',
-      tum: 'img/gallery/8a.jpeg',
+      src: 'img/gallery/WanttoWalk.jpeg',
+      tum: 'img/gallery/WanttoWalk.jpeg',
       cp: "Want to Walk"
     },
     { 
       id: 3,
       type: "Photos",
-      src: 'img/gallery/10a.jpeg',
-      tum: 'img/gallery/10a.jpeg',
+      src: 'img/gallery/GorgeousGlow.jpeg',
+      tum: 'img/gallery/GoregeousGlow.jpeg',
       cp: "Gorgeous Glow"
     },
     { 
       id: 4,
       type: "Design",
-      src: 'img/gallery/3a.jpeg',
-      tum: 'img/gallery/3a.jpeg',
+      src: 'img/gallery/DapperDowntown.jpeg',
+      tum: 'img/gallery/DapperDowntown.jpeg',
       cp: "Dapper Downtown"
     },
     { 
       id: 5,
       type: "Photos",
-      src: 'img/gallery/11a.jpeg',
-      tum: 'img/gallery/11a.jpeg',
+      src: 'img/gallery/LookingLow.jpeg',
+      tum: 'img/gallery/LookingLow.jpeg',
       cp: "Look Low"
     },
     { 
       id: 6,
       type: "Photos",
-      src: 'img/gallery/2a.jpeg',
-      tum: 'img/gallery/2a.jpeg',
+      src: 'img/gallery/StopStaring.jpeg',
+      tum: 'img/gallery/StopStaringJust.jpeg',
       cp: "Stop Staring"
     },
     { 
       id: 7,
       type: "Design",
-      src: 'img/gallery/4a.jpeg',
-      tum: 'img/gallery/4a.jpeg',
-      cp: "Just Chillin"
+      src: 'img/gallery/JustModeling.jpeg',
+      tum: 'img/gallery/JustModeling.jpeg',
+      cp: "Just Modeling"
     },
     { 
       id: 8,
       type: "Photos",
-      src: 'img/gallery/7a.jpeg',
-      tum: 'img/gallery/7a.jpeg',
+      src: 'img/gallery/WatchOut.jpeg',
+      tum: 'img/gallery/WatchOut.jpeg',
       cp: "Oop, Watch out"
     },
     { 
       id: 9,
       type: "Photos",
-      src: 'img/gallery/16a.jpeg',
-      tum: 'img/gallery/16a.jpeg',
-      cp: "Common Now, Smile"
+      src: 'img/gallery/ComeOn.jpeg',
+      tum: 'img/gallery/ComeOn.jpeg',
+      cp: "Come On Now, Smile"
     },{ 
       id: 10,
       type: "Design",
-      src: 'img/gallery/5a.jpeg',
-      tum: 'img/gallery/5a.jpeg',
+      src: 'img/gallery/CatchYourEye.jpeg',
+      tum: 'img/gallery/CatchYourEye.jpeg',
       cp: "Caught Your Eye"
     }//,{ 
       //id: 11,
